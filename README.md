@@ -27,7 +27,11 @@ The goal of this repository is to:
 ### ✅ Completed
 - **StrSplit**: [Video Tutorial](https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)  
   A custom implementation of string splitting in Rust using traits and iterators.  
-
+- **Iterator**: [Video Tutorial](https://www.youtube.com/watch?v=yozQ9C69pNs&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)  
+  A custom implementation of the flatten struct and how it implements iterator and dobule ended iterator.
+- **Pointers**: [Video Tutorial](https://www.youtube.com/watch?v=8O0Nt9qY_vo&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)  
+  A custom implementation of smart pointers and how interior mutability works in rust.
+  
 ### 🚧 In Progress
 - More topics coming soon as I continue through the series.
 
